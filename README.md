@@ -1,10 +1,10 @@
-# Proyecto de Predicción de Números de Lotería
+# Proyecto de Predicción de Números al azar
 
-Este es un proyecto destinado a predecir los números de la lotería utilizando técnicas de Machine Learning. El objetivo principal es desarrollar un modelo que pueda predecir los números ganadores en futuros sorteos de la lotería.
+Este es un proyecto destinado a predecir los números de un juego utilizando técnicas de Machine Learning. El objetivo principal es desarrollar un modelo que pueda predecir los números ganadores en futuros sorteos de la lotería.
 
 ## Descripción
 
-El proyecto utiliza un modelo de aprendizaje automático basado en árboles de decisión para predecir los números de la lotería. Se utilizan características como la suma de los números, el promedio, el mínimo, el máximo, el rango, la desviación estándar, la mediana, el día de la semana del sorteo, el mes del sorteo y el año del sorteo para entrenar el modelo.
+El proyecto utiliza un modelo de aprendizaje automático basado en árboles de decisión para predecir los números de un juego. Se utilizan características como la suma de los números, el promedio, el mínimo, el máximo, el rango, la desviación estándar, la mediana, el día de la semana del juego, el mes del juego y el año del juego para entrenar el modelo.
 
 ## Estructura de archivos
 
