@@ -8,8 +8,8 @@ El proyecto utiliza un modelo de aprendizaje automático basado en árboles de d
 
 ## Estructura de archivos
 
-- `balo1.py`: Script principal que carga los datos, entrena el modelo, realiza predicciones y muestra los resultados.
-- `num.xlsx`: Archivo Excel que contiene los datos de entrada para el modelo.
+- `lottery.py`: Script principal que carga los datos, entrena el modelo, realiza predicciones y muestra los resultados.
+- `num.csv`: Archivo Excel que contiene los datos de entrada para el modelo.
 - `README.md`: Este archivo que proporciona una descripción general del proyecto.
 
 ## Instalación
@@ -19,7 +19,7 @@ El proyecto utiliza un modelo de aprendizaje automático basado en árboles de d
 
 ## Uso
 
-1. Ejecuta el script `balo1.py` para entrenar el modelo y realizar predicciones.
+1. Ejecuta el script `Lottery.py` para entrenar el modelo y realizar predicciones.
 2. El script mostrará las predicciones en el conjunto de prueba y también realizará una predicción para el próximo sorteo de lotería.
 
 ## Contribución
